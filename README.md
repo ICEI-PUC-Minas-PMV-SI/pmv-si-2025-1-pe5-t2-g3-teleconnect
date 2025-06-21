@@ -33,7 +33,7 @@
 | Etapa         | Atividades |
 |  :----:   | ----------- |
 | ETAPA 1       |[Análise, Planejamento e Prototipação da Solução](docs/DocumentoEtapa1.md)|
-| ETAPA 2       |[Preparação de ambiente em Nuvem e Virtualização Local](docs/DocumentoEpapa2.md)|
+| ETAPA 2       |[Preparação de ambiente em Nuvem e Virtualização Local](docs/DocumentoEtapa2.md)|
 | ETAPA 3       |[Gerência e Monitoração de ambientes de redes](docs/DocumentoEtapa3.md) |
 | ETAPA 4       |[Mecanismos de Segurança](docs/DocumentoEtapa4.md)|
 | ETAPA 5       |[Apresentação] |
