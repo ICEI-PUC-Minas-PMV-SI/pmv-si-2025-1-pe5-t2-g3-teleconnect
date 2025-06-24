@@ -14,6 +14,8 @@
 
 [Veja nossa Cartilha de Segurança da Informação](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe5-t2-g3-teleconnect/blob/main/docs/Cartilha%20Teleconnect%20-%20PSI%20(1).pdf)
 
+[Link para aplicação](http://54.242.133.106:8080)
+
 
 ## Integrantes
 
